@@ -10,6 +10,8 @@ npm install
 
 ## Test
 
+Before you should have global installation of `jasmine` package.
+
 ```
 npm test
 ```
