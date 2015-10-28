@@ -1,1 +1,12 @@
-{"private": true}
+{
+    "private": true,
+    "name": "test-jasmine-babel",
+    "scripts": {
+        "clear": "rm -rf node_modules/",
+        "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
+    },
+    "devDependencies": {
+        "babel": "^5.8.29",
+        "jasmine": "^2.3.2"
+    }
+}
