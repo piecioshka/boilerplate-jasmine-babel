@@ -2,6 +2,8 @@
 
 > Test project which use Babel.js as ES6 compiler to write unit tests
 
+**Support Babel ^5.8.29**
+
 ## Install
 
 ```
