@@ -26,6 +26,14 @@ Previously support:
 
  - `Babel ^5.8.29`
 
+## Build changelog
+
+Use https://github.com/tj/git-extras/blob/master/Commands.md#git-changelog:
+
+```
+git changelog -a -n
+```
+
 ## License
 
 [The MIT License](http://piecioshka.mit-license.org)
