@@ -26,7 +26,7 @@ Previously support:
 
  - `Babel ^5.8.29`
 
-## Build changelog
+## How to build changelog
 
 Use https://github.com/tj/git-extras/blob/master/Commands.md#git-changelog:
 
