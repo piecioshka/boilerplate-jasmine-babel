@@ -2,9 +2,7 @@
 
 > Test project which use Babel.js as ES6 compiler to write unit tests
 
-**Support Babel ^5.8.29**
-
-## Install
+## Setup
 
 ```
 npm install
@@ -17,6 +15,16 @@ Before you should have global installation of `jasmine` package.
 ```
 npm test
 ```
+
+## Support 
+
+Current support version:
+
+ - `Babel ^6.3.17`
+
+Previously support:
+
+ - `Babel ^5.8.29`
 
 ## License
 
