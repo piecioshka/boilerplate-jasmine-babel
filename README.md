@@ -20,11 +20,11 @@ npm test
 
 Current support version:
 
- - `Babel ^6.3.17`
+ - `babel-core: ^6.10.4`
 
 Previously support:
 
- - `Babel ^5.8.29`
+ - `babel: ^5.8.29`
 
 ## How to build changelog
 
