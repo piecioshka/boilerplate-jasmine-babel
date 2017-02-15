@@ -1,10 +1,10 @@
 {
     "private": true,
     "name": "test-jasmine-babel",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "scripts": {
         "clear": "rm -rf node_modules/",
-        "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
+        "test": "jasmine JASMINE_CONFIG_PATH=test/unit/jasmine.json"
     },
     "devDependencies": {
         "babel-core": "^6.10.4",

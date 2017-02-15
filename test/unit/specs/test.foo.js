@@ -1,4 +1,4 @@
-import Foo from '../../app/scripts/core/foo.es6';
+import Foo from '../../../src/foo';
 
 describe('Foo', () => {
     it('bar', () => {
