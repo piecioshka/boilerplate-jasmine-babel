@@ -1,29 +1,29 @@
 # test-jasmine-babel
 
-![](https://img.shields.io/badge/jasmine-2.4.1-brightgreen.svg)
-![](https://img.shields.io/badge/babel--core-6.10.4-blue.svg)
+[![dependencies](https://david-dm.org/piecioshka/test-jasmine-babel.svg)](https://github.com/piecioshka/test-jasmine-babel)
+[![travis-ci](https://api.travis-ci.org/piecioshka/test-jasmine-babel.svg?branch=master)](https://travis-ci.org/piecioshka/test-jasmine-babel)
+[![coveralls](https://coveralls.io/repos/github/piecioshka/test-jasmine-babel/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/test-jasmine-babel?branch=master)
+[![snyk](https://snyk.io/test/github/piecioshka/test-jasmine-babel/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/test-jasmine-babel?targetFile=package.json)
 
-> :ledger: Test project which use Jasmine with Babel.js
-
-## Setup
-
-```
-$ npm install
-```
+:ledger: Test project which use Jasmine with Babel.js
 
 ## Unit tests
 
-```
-$ npm test
+```bash
+npm test
 ```
 
 ## How to build a changelog?
 
-Use https://github.com/tj/git-extras/blob/master/Commands.md#git-changelog:
+Use <https://github.com/tj/git-extras/blob/master/Commands.md#git-changelog>:
 
+```bash
+git changelog -a -n
 ```
-$ git changelog -a -n
-```
+
+## Related
+
+* [test-mocha-babel](https://github.com/piecioshka/test-mocha-babel)
 
 ## License
 
