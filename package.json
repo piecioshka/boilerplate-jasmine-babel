@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-jasmine-babel",
+    "name": "boilerplate-jasmine-babel",
     "version": "1.2.1",
     "scripts": {
         "clear": "rm -rf node_modules/",
