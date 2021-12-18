@@ -5,7 +5,12 @@
 [![coveralls](https://coveralls.io/repos/github/piecioshka/boilerplate-jasmine-babel/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/boilerplate-jasmine-babel?branch=master)
 [![snyk](https://snyk.io/test/github/piecioshka/boilerplate-jasmine-babel/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/boilerplate-jasmine-babel?targetFile=package.json)
 
-:ledger: Test project which use Jasmine with Babel.js
+🍴 Starter with Jasmine & Babel.js
+
+## Features
+
+* :white_check_mark: Jasmine `v3.10.0`
+* :white_check_mark: Babel.js `v7.16.5`
 
 ## Unit tests
 
@@ -27,4 +32,4 @@ git changelog -a -n -p
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2015
+[The MIT License](http://piecioshka.mit-license.org) @ 2015-2021
