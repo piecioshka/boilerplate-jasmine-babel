@@ -23,5 +23,9 @@
     "jasmine": "^3.10.0",
     "jasmine-console-reporter": "^2.0.1",
     "nyc": "^15.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:piecioshka/boilerplate-jasmine-babel.git"
   }
 }
