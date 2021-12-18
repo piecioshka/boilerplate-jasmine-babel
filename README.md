@@ -18,7 +18,7 @@ npm test
 Use <https://github.com/tj/git-extras/blob/master/Commands.md#git-changelog>:
 
 ```bash
-git changelog -a -n
+git changelog -a -n -p
 ```
 
 ## Related
