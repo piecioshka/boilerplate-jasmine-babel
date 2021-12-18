@@ -2,8 +2,6 @@ node_modules/
 npm-debug.log
 
 .nyc_output/
+output/
 coverage/
-dist/
 coverage.lcov
-
-!.vscode/
