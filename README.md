@@ -17,6 +17,12 @@
 npm test
 ```
 
+## Code Coverage
+
+```bash
+npm run coverage
+```
+
 ## How to build a changelog?
 
 Use <https://github.com/tj/git-extras/blob/master/Commands.md#git-changelog>:
