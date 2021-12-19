@@ -1,8 +1,7 @@
 # boilerplate-jasmine-babel
 
-[![travis-ci](https://api.travis-ci.org/piecioshka/boilerplate-jasmine-babel.svg?branch=master)](https://travis-ci.org/piecioshka/boilerplate-jasmine-babel)
+[![travis-ci](https://api.app.travis-ci.com/github/piecioshka/boilerplate-jasmine-babel.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/boilerplate-jasmine-babel)
 [![coveralls](https://coveralls.io/repos/github/piecioshka/boilerplate-jasmine-babel/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/boilerplate-jasmine-babel?branch=master)
-[![snyk](https://snyk.io/test/github/piecioshka/boilerplate-jasmine-babel/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/boilerplate-jasmine-babel?targetFile=package.json)
 
 🍴 Starter with Jasmine & Babel.js
 
