@@ -1,3 +1,25 @@
+# Changelog
+
+v1.4.0 / 2022-06-21
+===================
+
+  * 1.4.0
+  * Upgrade deps
+  * Remove coveralls.io
+  * Update README.md
+  * Import EditorConfig file
+  * Update files mode
+  * Update related projects
+  * Travis: Update link to integratino
+  * VSC: Setup "Run" commands
+  * Import MIT license
+  * Travis: Remove support less than Node.js v10
+  * README.md: Add details about generate CC
+  * package.json: setup repository key
+  * Refresh project
+  * Fix deps audit
+  * Travis: remove support from Node.js v8 & v9
+  * CHANGELOG.md
 
 v1.3.0 / 2021-12-18
 ===================
