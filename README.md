@@ -6,8 +6,8 @@
 
 ## Features
 
-* :white_check_mark: Jasmine `v3.10.0`
-* :white_check_mark: Babel.js `v7.16.5`
+* :white_check_mark: Jasmine `v4.2.1`
+* :white_check_mark: Babel.js `v7.18.5`
 
 ## Unit tests
 
