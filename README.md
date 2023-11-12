@@ -1,25 +1,11 @@
 # boilerplate-jasmine-babel
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/boilerplate-jasmine-babel.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/boilerplate-jasmine-babel)
-
 🍴 Starter with Jasmine & Babel.js
 
 ## Features
 
-* :white_check_mark: Jasmine `v4.2.1`
-* :white_check_mark: Babel.js `v7.18.5`
-
-## Unit tests
-
-```bash
-npm test
-```
-
-## Code Coverage
-
-```bash
-npm run coverage
-```
+* :white_check_mark: Jasmine
+* :white_check_mark: Babel.js
 
 ## How to build a changelog?
 
