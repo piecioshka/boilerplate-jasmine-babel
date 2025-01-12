@@ -37,4 +37,4 @@ git changelog -a -n -p
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org) @ 2015-2021
+[The MIT License](https://piecioshka.mit-license.org) @ 2015
